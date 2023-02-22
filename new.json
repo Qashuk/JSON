@@ -1,2 +1,10 @@
-
-
+{
+       "full_name":"Kalinin_Vitaliy",
+       "age": 27,
+       "my_pets": {
+                     "cat": "Bonnie",
+                     "hamster_1": "Jessie",
+                     "hamster_2": "Tommie"
+                  }
+       "future_desired_salary": "500_dollars"
+}
